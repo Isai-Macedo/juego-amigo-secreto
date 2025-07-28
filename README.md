@@ -3,7 +3,7 @@
 ## Descripción.
 Este es un proyecto simple hecho en JavaScript puro (sin frameworks) para gestionar sorteos de Amigo Secreto. Puedes usarlo en reuniones, fiestas navideñas o cualquier ocasión especial. Funciona desde el navegador
 ## Prueba nuestro juego.
-Puedes probar el juego aquí: www.google.com(#sample-section)
+Puedes probar el juego aquí: https://isai-macedo.github.io/juego-amigo-secreto/
 ## Tecnologías
 - HTML
 - CSS
